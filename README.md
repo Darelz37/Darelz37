@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darelz37
-- 👀 I’m interested in web and mobile development,Networ security;
+- 👀 I’m interested in web and mobile development, informatique security;
 - 🌱 I’m currently learning HTML CSS &Js, python && JAVA;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me I'm using odf books and YouTube video; 
