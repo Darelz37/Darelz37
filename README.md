@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Darelz37
 - 👀 I’m interested in web and mobile development, informatique security;
 - 🌱 I’m currently learning HTML CSS &Js, python && JAVA;
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me I'm using odf books and YouTube video; 
-- 😄 Pronouns: El,U;
+- 💞️ I’m looking to collaborate on any development projects ...
+- 📫 How to reach me I'm using odf books and YouTube videos; 
+- 😄 Pronouns: Vous,Tu;
 - ⚡ Fun fact: ...
 
 <!---
